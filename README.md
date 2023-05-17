@@ -52,7 +52,7 @@ When you will receive a token expired message or status 69 on response body, whi
 
 Example:
 
-POST /authentication/refresh_token
+GET /authentication/refresh_token
 
 ```
 HTTP_AUTHORIZATION : Bearer [YOUR REFRESH TOKEN]
